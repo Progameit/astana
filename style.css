@@ -1,0 +1,183 @@
+.div{
+    background-color: black;
+}
+.div1{
+    color: white;
+    text-align: center;
+}
+.div2{
+    color: white;
+    text-align: center;
+}
+.div3{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+   color: white;
+}
+.text2{
+    color: white;
+}
+.text3{
+    color: white;
+}
+.text4{
+    color: white;
+}
+.text5{
+    color: white;
+}
+.text6{
+    color: white;
+}
+.text7{
+    color: white;
+}
+.text8{
+    color: white;
+}
+.text9{
+    color: white;
+}
+.text10{
+    color: white;
+}
+.img1{
+    width: 800px;
+    height: 500px;
+    float: left
+
+}
+.img2{
+    width: 800px;
+    height: 500px;
+    float: left
+
+}
+.img3{
+    width: 800px;
+    height: 500px;
+    float: left
+    
+}
+.img4{
+    width: 800px;
+    height: 500px;
+    float: left
+    
+}
+.img5{
+    width: 800px;
+    height: 500px; 
+    float: left
+   
+}
+.img6{
+    width: 800px;
+    height: 500px;
+    float: left
+    
+}
+.img7{
+    width: 800px;
+    height: 500px;
+    float: left
+    
+}
+.img8{
+    width: 800px;
+    height: 500px;
+    float: left
+}
+.img9{
+    width: 800px;
+    height: 500px;
+    float: left
+}
+.img10{
+    width: 800px;
+    height: 500px;
+    float: left
+}
+.div0{
+    background-color: gray;
+}
+.t1{
+    font-family: "Droid Sans";
+    font-size: 31px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t2{
+    font-family: "Droid Sans";
+    font-size: 31px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t3{
+    font-family: "Droid Sans";
+    font-size: 29px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t4{
+    font-family: "Droid Sans";
+    font-size: 32px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t5{
+    font-family: "Droid Sans";
+    font-size: 36px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t6{
+    font-family: "Droid Sans";
+    font-size: 32px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t7{
+    font-family: "Droid Sans";
+    font-size: 30px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t8{
+    font-family: "Droid Sans";
+    font-size: 31px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t9{
+    font-family: "Droid Sans";
+    font-size: 31px;
+    top: -20px;
+    margin-left: 110px;
+}
+.t10{
+    font-family: "Droid Sans";
+    font-size: 36px;
+    top: -20px;
+    margin-left: 110px;
+}
+.end{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.vk{
+    width: 50px;
+    height: 50px;
+}
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+.twitter{
+    width: 50px;
+    height: 50px;
+}
